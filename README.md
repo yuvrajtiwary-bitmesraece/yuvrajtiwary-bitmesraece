@@ -2,10 +2,7 @@
 
 
 
-<video style="display: block; margin: auto; cursor: pointer; background-color: hsl(0, 0%, 90%);" width="1500" height="500" controls loop>
-    <source src="https://youtu.be/gqNyY4ckZBg" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![](https://github.com/user-attachments/assets/bef6fa30-0cb3-4b7a-ad42-86e61785b247)
 
 
 
