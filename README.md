@@ -21,7 +21,7 @@
 -   Check out challenges completed by me on [Codolio](https://codolio.com/profile/Yuvraj_Tiwary)
 
 ## 🌟 Most Starred Repository
-![](https://github.com/yuvrajtiwary-bitmesraece/Yuvraj_Tiwary_YT)
+![Yuvraj Tube](https://github.com/yuvrajtiwary-bitmesraece/Yuvraj_Tiwary_YT)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niraj-kumar-r&theme=radical&no-frame=false&no-bg=true&margin-w=4)
