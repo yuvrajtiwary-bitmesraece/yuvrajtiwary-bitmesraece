@@ -8,7 +8,7 @@
 
 ## About Me
 
--   👋 Hi, I’m [@niraj-kumar-r](https://github.com/yuvrajtiwary-bitmesraece)
+-   👋 Hi, I’m [@yuvrajtiwary-bitmesraece](https://github.com/yuvrajtiwary-bitmesraece)
 -   👨 I'm a student, currently a third year pursuing B.Tech in ECE at BIT Mesra [Nov 2022 - 2026]
 -   👀 I’m interested in machine learning, web and mobile development, and blockchain
 -   🌱 I’m currently learning web development and would love to collaborate
