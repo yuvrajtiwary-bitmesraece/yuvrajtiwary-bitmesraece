@@ -1,4 +1,6 @@
-# Yuvraj Tiwary
+# Hey there 👋, I'm Yuvraj Tiwary
+
+#A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome
 
 ![](https://github.com/user-attachments/assets/0c338a09-3418-4466-aed2-1e87f3a5a891)
 
