@@ -2,10 +2,11 @@
 
 
 
-<video align="center" style="display: block; margin: auto; cursor: pointer; background-color: hsl(0, 0%, 90%);" width="1500" height="500" controls loop>
-    <source src="https://drive.google.com/file/d/1b9ss782d--yFEF-GOCu0_SRAQEh68S0G/view?usp=sharing" type="video/mp4">
+<video style="display: block; margin: auto; cursor: pointer; background-color: hsl(0, 0%, 90%);" width="1500" height="500" controls loop>
+    <source src="https://drive.google.com/uc?export=download&id=1b9ss782d--yFEF-GOCu0_SRAQEh68S0G" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
 
 
 
