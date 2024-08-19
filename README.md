@@ -18,7 +18,7 @@ A passionate Web Developer from BIT Mesra! My strengths are identifying solution
 
 ## 📫 Connect with me :
 
-[![Twitter svg](twitter.svg)](https://x.com/yuvraj_280404) [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/yuvraj-tiwary-426279254/) [![LC logo](AAALC.png)](https://leetcode.com/u/Baabu_Bhaiya_Ki_Jai/) [![CC Logo](AAACC.png)](https://www.codechef.com/users/bhaiya_2004) [![AC Logo](AAAAC.png)](https://atcoder.jp/users/Yuvraj_2004) [![GFG Logo](AAAGFG.png)](https://www.geeksforgeeks.org/user/yuvrajtiwary280404/) [![Hackerank Logo](AAAHR.png)](https://www.hackerrank.com/profile/btech10216_22)
+[![Twitter svg](twitter.svg)](https://x.com/yuvraj_280404)    [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/yuvraj-tiwary-426279254/)    [![LC logo](AAALC.png)](https://leetcode.com/u/Baabu_Bhaiya_Ki_Jai/)    [![CC Logo](AAACC.png)](https://www.codechef.com/users/bhaiya_2004)    [![AC Logo](AAAAC.png)](https://atcoder.jp/users/Yuvraj_2004)    [![GFG Logo](AAAGFG.png)](https://www.geeksforgeeks.org/user/yuvrajtiwary280404/)    [![Hackerank Logo](AAAHR.png)](https://www.hackerrank.com/profile/btech10216_22)
 
 -   Check out challenges completed by me on [Codolio](https://codolio.com/profile/Yuvraj_Tiwary)
 
