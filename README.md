@@ -3,7 +3,7 @@
 
 
 <video align="center" style="display: block; margin: auto; cursor: pointer; background-color: hsl(0, 0%, 90%);" width="1500" height="500" controls loop>
-    <source src="https://github.com/user-attachments/assets/f2481524-40c4-4e75-816b-24dc4201ba91.mp4" type="video/mp4">
+    <source src="https://drive.google.com/file/d/1b9ss782d--yFEF-GOCu0_SRAQEh68S0G/view?usp=sharing" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
