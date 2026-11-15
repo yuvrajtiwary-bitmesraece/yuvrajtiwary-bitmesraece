@@ -1,5 +1,3 @@
-<!---
-
 # Hey there 👋, I'm Yuvraj Tiwary
 
 A passionate Web Developer from BIT Mesra! My strengths are identifying solutions to complex problems and my eagerness to take on new challenges. It is important to me that I am not content with just any solution, as I am always striving to enhance and optimize the outcome
@@ -21,7 +19,7 @@ A passionate Web Developer from BIT Mesra! My strengths are identifying solution
 
 [![Twitter svg](twitter.svg)](https://x.com/yuvraj_280404) 
 &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between logos -->
-<!---
+
 [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/yuvraj-tiwary-426279254/) 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![LC logo](AAALC.png)](https://leetcode.com/u/Baabu_Bhaiya_Ki_Jai/) 
@@ -37,7 +35,7 @@ A passionate Web Developer from BIT Mesra! My strengths are identifying solution
 
 -   Check out challenges completed by me on [Codolio](https://codolio.com/profile/Yuvraj_Tiwary)
 
---->
+
 
 
 
