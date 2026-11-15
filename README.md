@@ -19,7 +19,6 @@ A passionate Web Developer from BIT Mesra! My strengths are identifying solution
 
 [![Twitter svg](twitter.svg)](https://x.com/yuvraj_280404) 
 &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space between logos -->
-
 [![linked in logo](scaledlinkedInIsometric.png)](https://www.linkedin.com/in/yuvraj-tiwary-426279254/) 
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![LC logo](AAALC.png)](https://leetcode.com/u/Baabu_Bhaiya_Ki_Jai/) 
